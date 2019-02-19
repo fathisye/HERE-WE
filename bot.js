@@ -6,7 +6,7 @@ const prefix = '&'
 
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`Legends 4 EVER | &help`,"http://twitch.tv/S-F")
+client.user.setGame(`AboRoh | &help`,"http://twitch.tv/S-F")
   console.log('╔[═════════════════════════════════════════════════════════════════]╗')
   console.log(`[Start Time] ${new Date()}`);
   console.log('ARE YOU READY?')
